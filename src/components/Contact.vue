@@ -44,7 +44,7 @@ export default {
             duration:5000
         });
       }else {
-        this.axios.post('http://localhost:5000/api/mail/send', 
+        this.axios.post('https://nodemailer-server-1994.herokuapp.com/api/mail/send', 
           {name:this.name, email:this.email,subject:this.subject, message:this.message }
         )
         .then((res) => {
