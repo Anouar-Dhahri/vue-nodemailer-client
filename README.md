@@ -24,4 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Server
-(Link)[https://github.com/Anouar-Dhahri/nodemailer-server]
+[Link](https://github.com/Anouar-Dhahri/nodemailer-server)
